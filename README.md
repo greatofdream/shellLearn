@@ -1,8 +1,8 @@
 # shellLearn
-## tutorialStart.sh
+## shell/tutorialStart.sh
 文件，时间的操作
 
-## filelist.sh
+## shell/filelist.sh
 实现对目录下的目录检索和大小输出
-## filelist.py
+## python/filelist.py
 实现对目录下的目录检索和大小输出
