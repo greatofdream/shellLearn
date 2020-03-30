@@ -20,5 +20,6 @@ void genGauss(Int_t n =0){
 		h0[i-1]->GetXaxis()->CenterTitle();
 		//h1->Reset();
 	}
+	c1->SaveAs("Gauss.png");
 }
 
