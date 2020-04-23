@@ -1,3 +1,7 @@
 examples/*
 *.swp
 *.swo
+*.aux
+*.fls
+*.xdv
+*.fdb_latexmk
