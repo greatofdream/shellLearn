@@ -21,6 +21,13 @@
 \includegraphics[width=.8\textwidth]{distribution100.eps}
 \end{figure}
 对于模拟结果$\lambda=0.20m$
+\subsection{理论计算}
+首先出发点是经过$x$距离后剩余概率是
+\[P(x)=e^{-x/l}\]
+那么对于有两种湮灭过程的散射，剩余概率应该是两者乘积
+\[P(x)=e^{-x/l_1}e^{-x/l_2}\]
+把上式化简之后就可以得到新的湮灭长度为下面式子：
+
 理论计算应该为$\lambda=\frac{1}{\frac{1}{\lambda_A}+\frac{1}{\lambda_B}}=\frac{1}{\frac{1}{5}+\frac{1}{0.3}}=0.28m$
 发现比理论计算小了一些，在写代码过程中有一个地方并没有考虑很恰当，算出湮灭概率更大后是应该立刻湮灭还是行走一段散射距离。
 
