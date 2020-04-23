@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.7.31)  23 APR 2020 08:59
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.7.31)  23 APR 2020 09:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -584,6 +584,13 @@ File: track100.eps Graphic file (type eps)
 <track100.eps>
 File: distribution100.eps Graphic file (type eps)
 <distribution100.eps>
+LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10.5393
+7> not available
+(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on
+ input line 26.
+[1
+
+]
 
 Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
 (fontspec)                Script "CJK".
@@ -602,18 +609,11 @@ Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
 
 File: distributionN100.eps Graphic file (type eps)
 <distributionN100.eps>
-File: distributionN1000.eps Graphic file (type eps)
-<distributionN1000.eps>
-LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10.5393
-7> not available
-(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on
- input line 37.
-[1
-
-]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+File: distributionN1000.eps Graphic file (type eps)
+<distributionN1000.eps>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -626,10 +626,10 @@ LaTeX Font Warning: Size substitutions with differences
 Here is how much of TeX's memory you used:
  16767 strings out of 494422
  387212 string characters out of 6164599
- 460981 words of memory out of 5000000
+ 456981 words of memory out of 5000000
  20608 multiletter control sequences out of 15000+600000
  534206 words of font info for 52 fonts, out of 8000000 for 9000
  286 hyphenation exceptions out of 8191
  56i,4n,74p,372b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on simScatter.xdv (3 pages, 13384 bytes).
+Output written on simScatter.xdv (3 pages, 13336 bytes).
