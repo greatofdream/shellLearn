@@ -15,6 +15,9 @@ Float y=gRandom->Gaus();
 + GaussEach.pdf:将二维图投影至一维**(在读root后才进行的投影)**
 + GaussLEGO3.pdf  GaussSURF1POL.pdf   GaussCOLZ.pdf  GaussLEGO1.pdf  Gauss.pdf:使用不同的画图格式绘制的二维图
 + hist2.C:包含写root和读root文件程序
+
+chiCaculate.C
++ 加入直接定义hist中bin的数据值
 ## tree
 + ex41.C:使用类进行tree的单branch多leaf的实现
 + tree.C:使用结构体进行tree的单branch多leaf的实现,同时实现从root文件读取tree并且打印
