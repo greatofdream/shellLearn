@@ -11,3 +11,6 @@
 + **利用之前的**1000组数据，每组数据中包含100个高斯分布的数据
 + 分别对每组数据拟合，得到对应的拟合值：`qu`分布,可以看到分布在变宽，同时均值也在增大
 ![profilelikelihood](./profile1000.png)
+
+## Roofit
+[参考code](https://root.cern/doc/master/rf605__profilell_8C.html)
