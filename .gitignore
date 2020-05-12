@@ -5,3 +5,4 @@ examples/*
 *.fls
 *.xdv
 *.fdb_latexmk
+.vscode
