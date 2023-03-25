@@ -3,6 +3,7 @@
 #include "TRandom.h"
 using namespace std;
 void fitGaus(){
+	gStyle->SetOptFit(1111);
 	Int_t N = 1000;
 	Int_t nentries = 1000;
 	TH1F* h1 = new TH1F("h1","gauss distribution",100,-5,5);
